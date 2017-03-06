@@ -1,6 +1,6 @@
 # videoAlgorithmsAnalysis
 
->>This software was used for keypoint selection, described in article "Keypoints for indoor and outdoor environments in video sequence" by Ł. Ł. and Urszula Libal.<< 
+"This software was used for keypoint selection, described in unpublished preprint >>Keypoint distribution in indoor and outdoor scenes based on UAVs vision<< by Ł. Ł. and Urszula Libal."
 
 Software for rapid prototyping video analysis algorithms and machine learning.
 
